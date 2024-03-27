@@ -1,4 +1,4 @@
-const edate= "19 March 2024 03:26:34 AM";
+const edate= "30 March 2024 03:26:34 AM";
 document.querySelector("#edate").innerText=edate;
 const inputs=document.querySelectorAll("input");
 
